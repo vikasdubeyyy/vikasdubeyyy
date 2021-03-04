@@ -21,6 +21,8 @@
 <br />
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=vikasdubeyyy&show_icons=true&theme=great-gatsby&include_all_commits=true)
+ 
+![Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vikasdubeyyy&hide=css&theme=nord)
 
 ![counter](https://enva019gch2logq.m.pipedream.net/)
 
