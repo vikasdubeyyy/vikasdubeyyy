@@ -1,6 +1,6 @@
 ### Hi there, I'm Vikas!  👋
 
-- 🌱 Learnings: GoLang | MicroServices
+- 🌱 Learnings: Flutter | Micro-Services | GoLang
 - 🥅 2021 Goals: Increase social reach on Github and other platforms
 - ⚡ Ameture Photography, Hiking
 
